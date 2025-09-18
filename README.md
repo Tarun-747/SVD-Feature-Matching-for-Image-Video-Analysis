@@ -26,9 +26,3 @@ This project demonstrates hands-on applications of **Singular Value Decompositio
 
 ---
 
-## Usage
-
-1. Clone the repository:  
-```bash
-git clone https://github.com/yourusername/visioneers-svd.git
-cd visioneers-svd
